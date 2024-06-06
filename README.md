@@ -36,6 +36,7 @@ Define software maintenance and explain the different types of maintenance activ
 Ethical Considerations in Software Engineering:
 
 
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
